@@ -1,5 +1,5 @@
 # DICETOSSR
-DiceTossr is a Python script that simulates the "radioactive dice" experiment and plots a histogram of the results.
+DiceTossr is a Python script that simulates the "radioactive dice" experiment and plots a histogram of the results after 5 throws.
 
 ## The radioactive dice experiment
 The 'radioactive dice' experiment is a classic in school science labs. It's like a hands-on way to grasp the concept of radioactive decay. You start with a bunch of regular dice, roll them all at once, and any that show a specific number (like six) are considered "decayed," just like radioactive nuclei. You take those out and count what's left, representing the undecayed nuclei. Then, you roll the remaining dice again, removing any that show the target number, and count what's left. Repeat this process a few times, and you'll see the number of undecayed dice decrease over time, mimicking radioactive decay.
